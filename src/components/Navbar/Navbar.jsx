@@ -23,9 +23,7 @@ const Navbar = () => {
 
           <span>username</span>
           <span>Logout</span>
-          <span>
-            <Link></Link>
-          </span>
+  
         </div>
       </div>
     </div>
