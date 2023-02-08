@@ -5,6 +5,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 
+
 import Register from "./Page-Components/Register/Register";
 import Homepage from "./Page-Components/Homepage/Homepage";
 import Login from "./Page-Components/Login/Login";
@@ -15,6 +16,7 @@ import "./Page-Components/Login/Login.scss";
 import "./components/Navbar/Navbar.scss";
 import "./styles.scss";
 
+// Initializing firebase in the application
 
 const Layout = ()=> {
   return (
